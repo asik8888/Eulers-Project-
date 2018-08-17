@@ -1,3 +1,5 @@
+# Sum of multiples of 3 and 5 under number 'N'
+
 import sys
 
 def cal(multiple, t_num):
