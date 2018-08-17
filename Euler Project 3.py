@@ -1,3 +1,5 @@
+# Largest divisible prime from 'N'
+
 import math
 
 def lpf(n):
